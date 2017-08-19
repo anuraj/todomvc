@@ -8,4 +8,6 @@
 
 obj
 bin
-wwwroot/*
+wwwroot/lib/*
+!wwwroot/lib/js/*
+!wwwroot/lib/css/*
